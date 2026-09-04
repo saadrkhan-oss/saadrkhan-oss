@@ -2,6 +2,7 @@
 
 **Computer Science Student — Cybersecurity & Digital Forensics**
 
+**COLLGE/UNIVERSITY:**
 **Shaheed Benazir Bhutto University, Sheringal**
 
 [GitHub](https://github.com/saadrkhan-oss) · [LinkedIn](https://www.linkedin.com/in/saad-rahman-khan-708559274) · [Email](mailto:saadrkhan074@gmail.com)
@@ -21,10 +22,10 @@ Computer Science student with a focused interest in cybersecurity and digital fo
 
 ## Certifications
 
-- **[Google Cybersecurity Professional Certificate](certificates/google-cybersecurity.png)** — Google, via Coursera (9 courses) — *September 2026*
+- **Google Cybersecurity Professional Certificate** — Google, via Coursera (9 courses) — *September 2026*
   Covers security foundations, risk management, network security, Linux and SQL, threat detection, Python automation, and SIEM/IDS tools.
   [Verify credential](https://coursera.org/verify/professional-cert/RPYZVMCS9EA7)
-- **[Ethical Hacker](certificates/cisco-ethical-hacker.pdf)** — Cisco Networking Academy — *July 2026*
+- **Ethical Hacker** — Cisco Networking Academy — *July 2026*
 
 
 ## Technical Skills
