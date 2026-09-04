@@ -11,7 +11,7 @@
 
 ## About
 
-Computer Science student with a focused interest in cybersecurity and digital forensics. I learn primarily through building — there is consistently a project in active development on my end, spanning forensic tooling, detection systems, and offensive security practice. I am also currently working through a 100-Day Ethical Hacking Challenge, using it to build and document hands-on security skills in a structured, disciplined way.
+Computer Science student with a focused interest in cybersecurity and digital forensics. My primary project is **StegoShield**, a web-based digital forensic platform for steganography detection, built as my final year thesis project. Alongside that, I am working through a 100-Day Ethical Hacking Challenge, using it to build and document hands-on security skills in a structured, disciplined way.
 
 ## Focus Areas
 
@@ -27,6 +27,13 @@ Computer Science student with a focused interest in cybersecurity and digital fo
   [Verify credential](https://coursera.org/verify/professional-cert/RPYZVMCS9EA7)
 - **Ethical Hacker** — Cisco Networking Academy — *July 2026*
 
+
+## Final Year Project
+
+**StegoShield** — a web-based digital forensic platform for detecting steganography (hidden data concealed within files).
+ 
+- Built with Python, Flask, YARA, ClamAV, ExifTool, Binwalk, TensorFlow, and SQLite
+- Professional dashboard with Encryption/Decryption modes and a guided, step-unlock workflow
 
 ## Technical Skills
 
